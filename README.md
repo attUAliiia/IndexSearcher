@@ -1,4 +1,4 @@
-# Web Index / Admin Finder (GUI)
+# IndexSearcher
 
 A Python-based graphical web enumeration tool designed for **authorized security testing**.  
 This application helps identify common entry points such as `index.html`, admin panels, and WordPress endpoints on a target website using a configurable wordlist and realistic HTTP behavior.
@@ -69,3 +69,4 @@ Install dependencies:
 
 ```bash
 pip install requests
+
