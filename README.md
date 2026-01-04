@@ -1,2 +1,2 @@
 # IndexSearcher
-A Bot that Searches For index.html or admin panels on pages
+A Program that Searches For index.html or admin panels on pages
